@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F4AA6C261589A2DF0093D97E"
-               BuildableName = "RecipeBook.app"
-               BlueprintName = "RecipeBook"
-               ReferencedContainer = "container:RecipeBook.xcodeproj">
+               BuildableName = "Real Time Volenteer.app"
+               BlueprintName = "Real Time Volenteer"
+               ReferencedContainer = "container:Real Time Volenteer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F4AA6C261589A2DF0093D97E"
-            BuildableName = "RecipeBook.app"
-            BlueprintName = "RecipeBook"
-            ReferencedContainer = "container:RecipeBook.xcodeproj">
+            BuildableName = "Real Time Volenteer.app"
+            BlueprintName = "Real Time Volenteer"
+            ReferencedContainer = "container:Real Time Volenteer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F4AA6C261589A2DF0093D97E"
-            BuildableName = "RecipeBook.app"
-            BlueprintName = "RecipeBook"
-            ReferencedContainer = "container:RecipeBook.xcodeproj">
+            BuildableName = "Real Time Volenteer.app"
+            BlueprintName = "Real Time Volenteer"
+            ReferencedContainer = "container:Real Time Volenteer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F4AA6C261589A2DF0093D97E"
-            BuildableName = "RecipeBook.app"
-            BlueprintName = "RecipeBook"
-            ReferencedContainer = "container:RecipeBook.xcodeproj">
+            BuildableName = "Real Time Volenteer.app"
+            BlueprintName = "Real Time Volenteer"
+            ReferencedContainer = "container:Real Time Volenteer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

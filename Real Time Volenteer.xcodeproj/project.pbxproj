@@ -55,14 +55,14 @@
 		F4792A0E17A3FF4C005ABA86 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		F4792A1017A3FF50005ABA86 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		F4792A1217A40C64005ABA86 /* placeholder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = placeholder.jpg; sourceTree = "<group>"; };
-		F4AA6C271589A2DF0093D97E /* RecipeBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecipeBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4AA6C271589A2DF0093D97E /* Real Time Volenteer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Real Time Volenteer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4AA6C2B1589A2DF0093D97E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F4AA6C2D1589A2DF0093D97E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F4AA6C2F1589A2DF0093D97E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		F4AA6C331589A2DF0093D97E /* RecipeBook-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RecipeBook-Info.plist"; sourceTree = "<group>"; };
+		F4AA6C331589A2DF0093D97E /* Real Time Volenteer-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Real Time Volenteer-Info.plist"; sourceTree = "<group>"; };
 		F4AA6C351589A2DF0093D97E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F4AA6C371589A2DF0093D97E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F4AA6C391589A2DF0093D97E /* RecipeBook-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RecipeBook-Prefix.pch"; sourceTree = "<group>"; };
+		F4AA6C391589A2DF0093D97E /* Real Time Volenteer-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Real Time Volenteer-Prefix.pch"; sourceTree = "<group>"; };
 		F4AA6C3A1589A2DF0093D97E /* RecipeBookAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RecipeBookAppDelegate.h; sourceTree = "<group>"; };
 		F4AA6C3B1589A2DF0093D97E /* RecipeBookAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RecipeBookAppDelegate.m; sourceTree = "<group>"; };
 		F4AA6C3E1589A2DF0093D97E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
@@ -123,7 +123,7 @@
 		F4AA6C281589A2DF0093D97E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F4AA6C271589A2DF0093D97E /* RecipeBook.app */,
+				F4AA6C271589A2DF0093D97E /* Real Time Volenteer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -172,10 +172,10 @@
 			isa = PBXGroup;
 			children = (
 				F47929FD17A3FEA7005ABA86 /* images */,
-				F4AA6C331589A2DF0093D97E /* RecipeBook-Info.plist */,
+				F4AA6C331589A2DF0093D97E /* Real Time Volenteer-Info.plist */,
 				F4AA6C341589A2DF0093D97E /* InfoPlist.strings */,
 				F4AA6C371589A2DF0093D97E /* main.m */,
-				F4AA6C391589A2DF0093D97E /* RecipeBook-Prefix.pch */,
+				F4AA6C391589A2DF0093D97E /* Real Time Volenteer-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -192,9 +192,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F4AA6C261589A2DF0093D97E /* RecipeBook */ = {
+		F4AA6C261589A2DF0093D97E /* Real Time Volenteer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F4AA6C451589A2DF0093D97E /* Build configuration list for PBXNativeTarget "RecipeBook" */;
+			buildConfigurationList = F4AA6C451589A2DF0093D97E /* Build configuration list for PBXNativeTarget "Real Time Volenteer" */;
 			buildPhases = (
 				F4AA6C231589A2DF0093D97E /* Sources */,
 				F4AA6C241589A2DF0093D97E /* Frameworks */,
@@ -204,9 +204,9 @@
 			);
 			dependencies = (
 			);
-			name = RecipeBook;
+			name = "Real Time Volenteer";
 			productName = RecipeBook;
-			productReference = F4AA6C271589A2DF0093D97E /* RecipeBook.app */;
+			productReference = F4AA6C271589A2DF0093D97E /* Real Time Volenteer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -218,7 +218,7 @@
 				CLASSPREFIX = RecipeBook;
 				LastUpgradeCheck = 0430;
 			};
-			buildConfigurationList = F4AA6C211589A2DF0093D97E /* Build configuration list for PBXProject "RecipeBook" */;
+			buildConfigurationList = F4AA6C211589A2DF0093D97E /* Build configuration list for PBXProject "Real Time Volenteer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -230,7 +230,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F4AA6C261589A2DF0093D97E /* RecipeBook */,
+				F4AA6C261589A2DF0093D97E /* Real Time Volenteer */,
 			);
 		};
 /* End PBXProject section */
@@ -342,9 +342,11 @@
 					"\"$(SRCROOT)\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "RecipeBook/RecipeBook-Prefix.pch";
-				INFOPLIST_FILE = "RecipeBook/RecipeBook-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "RecipeBook/Real Time Volenteer-Prefix.pch";
+				INFOPLIST_FILE = "RecipeBook/Real Time Volenteer-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				PRODUCT_NAME = "Real Time Volenteer";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -357,9 +359,11 @@
 					"\"$(SRCROOT)\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "RecipeBook/RecipeBook-Prefix.pch";
-				INFOPLIST_FILE = "RecipeBook/RecipeBook-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "RecipeBook/Real Time Volenteer-Prefix.pch";
+				INFOPLIST_FILE = "RecipeBook/Real Time Volenteer-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				PRODUCT_NAME = "Real Time Volenteer";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -367,7 +371,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F4AA6C211589A2DF0093D97E /* Build configuration list for PBXProject "RecipeBook" */ = {
+		F4AA6C211589A2DF0093D97E /* Build configuration list for PBXProject "Real Time Volenteer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F4AA6C431589A2DF0093D97E /* Debug */,
@@ -376,7 +380,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F4AA6C451589A2DF0093D97E /* Build configuration list for PBXNativeTarget "RecipeBook" */ = {
+		F4AA6C451589A2DF0093D97E /* Build configuration list for PBXNativeTarget "Real Time Volenteer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F4AA6C461589A2DF0093D97E /* Debug */,
