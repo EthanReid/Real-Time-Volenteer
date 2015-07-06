@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>F1913BF7-9C01-40A6-9BCE-893B228ADC07</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Real Time Volenteer</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A0EA08FBBDEDC4B632AA5C0048A60350355DE206</key>
 		<string>https://github.com/EthanReid/Real-Time-Volenteer.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Real Time Volenteer.xcodeproj/project.xcworkspace</string>
+	<string>Real Time Volenteer.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A0EA08FBBDEDC4B632AA5C0048A60350355DE206</key>
